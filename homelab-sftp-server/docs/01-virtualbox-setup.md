@@ -12,7 +12,7 @@ Create an isolated Linux server environment on a Windows laptop without replacin
 | Hypervisor | VirtualBox |
 | Operating System | Ubuntu Server |
 | RAM | 5 GB |
-| CPU | 8 virtual CPUs |
+| CPU | 2 virtual CPUs |
 | Network | NAT initially, later Bridged Adapter |
 | Storage | Virtual disk |
 
