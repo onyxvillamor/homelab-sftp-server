@@ -1,7 +1,6 @@
 # 07 - UFW Firewall
 
 ## Status
-**Planned / To Be Implemented**
 
 UFW has not yet been configured as part of the current project state.
 
