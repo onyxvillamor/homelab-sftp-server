@@ -1,9 +1,5 @@
 # 07 - UFW Firewall
 
-## Status
-
-UFW has not yet been configured as part of the current project state.
-
 ## Objective
 Use UFW (Uncomplicated Firewall) to control incoming and outgoing network traffic on Ubuntu.
 
